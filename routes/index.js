@@ -7,4 +7,4 @@ router.use((req,res) => {
     res.status(400).end;
 });
 
-module.export = router;
+module.exports = router;
